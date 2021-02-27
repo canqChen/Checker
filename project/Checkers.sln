@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers", "Checkers\Checkers.csproj", "{B788E73E-7732-461A-A7CE-3D91CC9FDC16}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Checker", "Checker\Checker.isproj", "{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{B788E73E-7732-461A-A7CE-3D91CC9FDC16}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.Debug|Any CPU.ActiveCfg = SingleImage
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.Debug|Any CPU.Build.0 = SingleImage
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.DVD-5|Any CPU.Build.0 = DVD-5
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.Release|Any CPU.ActiveCfg = SingleImage
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.Release|Any CPU.Build.0 = SingleImage
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{A4B1A07E-F4C4-4295-AD40-6CB62C754C74}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
